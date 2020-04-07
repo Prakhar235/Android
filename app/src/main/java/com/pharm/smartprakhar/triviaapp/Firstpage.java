@@ -9,7 +9,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.pharm.smartprakhar.triviaapp.classes.Game;
+import com.pharm.smartprakhar.triviaapp.Controllers.Game;
 
 public class Firstpage extends AppCompatActivity {
 

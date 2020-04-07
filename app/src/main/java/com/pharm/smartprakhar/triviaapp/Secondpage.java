@@ -11,7 +11,7 @@ import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.Toast;
 
-import com.pharm.smartprakhar.triviaapp.classes.Game;
+import com.pharm.smartprakhar.triviaapp.Controllers.Game;
 
 public class Secondpage extends AppCompatActivity {
     Game game;

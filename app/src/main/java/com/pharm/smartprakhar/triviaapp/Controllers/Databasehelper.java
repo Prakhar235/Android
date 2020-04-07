@@ -1,4 +1,4 @@
-package com.pharm.smartprakhar.triviaapp.classes;
+package com.pharm.smartprakhar.triviaapp.Controllers;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -9,7 +9,6 @@ import android.database.sqlite.SQLiteOpenHelper;
 import org.json.JSONException;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class Databasehelper extends SQLiteOpenHelper {
     private static final int DATABASE_VERSION = 36;

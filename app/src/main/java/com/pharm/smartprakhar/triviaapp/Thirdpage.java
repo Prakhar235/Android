@@ -9,11 +9,9 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.CheckBox;
 import android.widget.CompoundButton;
-import android.widget.RadioButton;
-import android.widget.RadioGroup;
 import android.widget.Toast;
 
-import com.pharm.smartprakhar.triviaapp.classes.Game;
+import com.pharm.smartprakhar.triviaapp.Controllers.Game;
 
 import java.util.ArrayList;
 

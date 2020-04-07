@@ -10,11 +10,9 @@ import androidx.recyclerview.widget.RecyclerView;
 
 
 import com.pharm.smartprakhar.triviaapp.R;
-import com.pharm.smartprakhar.triviaapp.classes.Game;
+import com.pharm.smartprakhar.triviaapp.Controllers.Game;
 
 import java.util.ArrayList;
-import java.util.List;
-
 
 
 public class Adapter_History extends RecyclerView.Adapter<Adapter_History.ViewHolder> {

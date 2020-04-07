@@ -8,10 +8,9 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
-import android.widget.Toast;
 
-import com.pharm.smartprakhar.triviaapp.classes.Databasehelper;
-import com.pharm.smartprakhar.triviaapp.classes.Game;
+import com.pharm.smartprakhar.triviaapp.Controllers.Databasehelper;
+import com.pharm.smartprakhar.triviaapp.Controllers.Game;
 
 import java.util.Calendar;
 

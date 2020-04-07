@@ -5,12 +5,11 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Bundle;
-import android.util.Log;
 import android.widget.Toast;
 
 import com.pharm.smartprakhar.triviaapp.Adapters.Adapter_History;
-import com.pharm.smartprakhar.triviaapp.classes.Databasehelper;
-import com.pharm.smartprakhar.triviaapp.classes.Game;
+import com.pharm.smartprakhar.triviaapp.Controllers.Databasehelper;
+import com.pharm.smartprakhar.triviaapp.Controllers.Game;
 
 import java.util.ArrayList;
 

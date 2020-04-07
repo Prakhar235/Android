@@ -1,7 +1,6 @@
-package com.pharm.smartprakhar.triviaapp.classes;
+package com.pharm.smartprakhar.triviaapp.Controllers;
 
 import java.io.Serializable;
-import java.util.ArrayList;
 
 public  class Game implements Serializable {
     public static final String TABLE_NAME = "game";
